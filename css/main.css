@@ -1,0 +1,18 @@
+.main .main__col-1{
+    background-color: yellow;
+    width: 95%;
+    height: 350px;
+    margin-left: 13px;
+}
+
+.main .main__col-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    font-size: 24px;
+}
+
+.main .main__col-2 .main__col-2-1 i {
+    margin-left: 5px;
+}

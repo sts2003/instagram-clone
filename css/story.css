@@ -1,0 +1,17 @@
+.screen .story{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.story__area .story__area-img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    margin-bottom: 3px;
+}
+.story__area .story__area-text{
+    text-align: center;
+}
