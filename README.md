@@ -1,8 +1,10 @@
 # instagram-clone
 
-# instagram-clone for html study.
+# instagram-clone For HTML study.
 
 
-
+ - [x] Header Nav
+ - [x] Header
+ - [ ] Stoty
 
 
