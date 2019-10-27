@@ -5,6 +5,10 @@
 
  - [x] Header Nav
  - [x] Header
- - [ ] Stoty
+ - [x] Story
+ - [x] Main 
+ - [x] Account
+ - [x] Styles
+ - [x] Footer   
 
 
